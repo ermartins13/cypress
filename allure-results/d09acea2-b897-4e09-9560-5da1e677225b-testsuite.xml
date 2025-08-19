@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1755603750300' stop='1755603773386'>
+    <name>Realizar Cadastro</name>
+    <title>Realizar Cadastro</title>
+    <test-cases>
+        <test-case start='1755603750356' status='passed' stop='1755603759188'>
+            <name>Realizar Cadastro com Email Invalido</name>
+            <title>Realizar Cadastro com Email Invalido</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755603759227' status='passed' stop='1755603773386'>
+            <name>Realizar Cadastro com Sucesso</name>
+            <title>Realizar Cadastro com Sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

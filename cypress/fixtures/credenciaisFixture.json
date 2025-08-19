@@ -1,0 +1,12 @@
+{
+  "users":{
+     "user_Invalido": "User Invalido"
+  },
+  "emails":{
+    "email_invalido": "standard_user@example.com"
+  },
+  "passwords":{
+    "password_valido": "12.testeAUT",
+    "password_invalido": "12345"
+  }
+}

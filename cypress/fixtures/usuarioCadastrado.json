@@ -1,0 +1,27 @@
+{
+  "nome": "Salvador",
+  "sobrenome": "Koss",
+  "email": "salvador.koss@teste.com",
+  "genero": "male",
+  "dataNascimento": {
+    "dia": 18,
+    "mes": 4,
+    "ano": "1962"
+  },
+  "telefone": "741.934.6425 x2060",
+  "empresa": "Minsait",
+  "endereco": {
+    "rua": "9932 Littel Bridge",
+    "pais": "Australia",
+    "estado": "Washington",
+    "cidade": "Abbottview",
+    "cep": "69916703"
+  },
+  "pais": "Australia",
+  "estado": "Washington",
+  "cidade": "Abbottview",
+  "cep": "69916703",
+  "idade": 63,
+  "categoria": "men",
+  "senha": "12.testeAUT"
+}

@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14159","Realizar Cadastro com Sucesso","","Tue Aug 19 08:42:39 BRT 2025","passed","Tue Aug 19 08:42:53 BRT 2025","","Realizar Cadastro","Realizar Cadastro","Realizar Cadastro com Sucesso"
+"","9408","Login com Sucesso","","Tue Aug 19 08:43:29 BRT 2025","passed","Tue Aug 19 08:43:38 BRT 2025","","Realizar Login","Realizar Login","Login com Sucesso"
+"","8832","Realizar Cadastro com Email Invalido","","Tue Aug 19 08:42:30 BRT 2025","passed","Tue Aug 19 08:42:39 BRT 2025","","Realizar Cadastro","Realizar Cadastro","Realizar Cadastro com Email Invalido"
+"","24561","Comprar Produto Aleatorio","","Tue Aug 19 08:42:58 BRT 2025","passed","Tue Aug 19 08:43:23 BRT 2025","","Comprar Produtos","Comprar Produtos","Comprar Produto Aleatorio"
+"","5264","Login com User Invalido","","Tue Aug 19 08:43:38 BRT 2025","passed","Tue Aug 19 08:43:43 BRT 2025","","Realizar Login","Realizar Login","Login com User Invalido"
